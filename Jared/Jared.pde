@@ -5,6 +5,7 @@ void draw() {
   if (mousePressed) {
     fill(225);
     stroke(10);
+    
   } else {
     fill(110);
     
