@@ -7,8 +7,8 @@ void draw() {
     stroke(10);
     
   } else {
-    fill(110);
-    
+    fill(10);
+    stroke(105);
   }
   triangle(500, 400, 300, 300, 450, 350
   );
